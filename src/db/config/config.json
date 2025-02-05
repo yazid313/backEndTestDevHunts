@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "cecep",
+    "database": "devhunts",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "cecep",
+    "database": "devhunts",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "cecep",
+    "database": "devhunts",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
