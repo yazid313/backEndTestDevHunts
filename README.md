@@ -34,6 +34,11 @@ DB_PASSWORD=yourpassword
 DB_NAME=yourdatabase
 ```
 
+Edit file `./src/config/config.json` di root directory :
+
+"password": "yourpassword",
+"database": "yourdatabase",
+
 ### 4️⃣ Database Migration
 
 Jalankan migrasi untuk membuat tabel di database:
